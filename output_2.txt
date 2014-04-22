@@ -1,0 +1,35 @@
+No. of lines        = 10
+Maximum line length = 280
+Minimum line length = 2
+Average line length = 84.90
+
+1
+22
+333
+4444
+
+1
+22
+333
+4444
+55555
+666666
+012345678
+xxxxxxxxx
+xxxxxxxxx
+yyyyyyyyy
+
+666666
+
+The files are identical.
+
+Command = diff: Can't open file  file_21.txt for reading.
+
+No. of lines        = 2
+Maximum line length = 50001
+Minimum line length = 10001
+Average line length = 30001.00
+
+aaaaaaaaa
+bbbbbbbbb
+

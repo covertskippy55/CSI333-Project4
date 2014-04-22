@@ -1,0 +1,8 @@
+stat   file_2.txt
+first  4   file_2.txt
+trunc  10  file_2.txt
+prpat   6666  file_2.txt
+diff   file_2.txt  file_22.txt
+diff   file_2.txt  file_21.txt
+stat   file_3.txt
+trunc  10   file_3.txt

@@ -1,0 +1,40 @@
+No. of lines        = 10
+Maximum line length = 6
+Minimum line length = 4
+Average line length = 4.90
+
+six
+seven
+eight
+nine
+ten
+
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+
+one
+two
+
+on
+tw
+th
+fo
+fi
+si
+se
+ei
+ni
+te
+
+Command = last: Can't open file  file_1.tyt for reading.
+
+The files are different. The first difference is in line 11.
+

@@ -1,0 +1,11 @@
+stat   file_4.txt
+trunc  2   file_4.txt
+trunc  1   file_4.txt
+prpat  example   file_5.txt
+prpat  Example   file_5.txt
+prpat  ple       file_51.txt
+prpat  ple       file_5.txt
+prpat  plex       file_6.txt
+diff   file_5.txt  file_6.txt
+first  30        file_6.txt
+last   2         file_6.txt

@@ -1,0 +1,4 @@
+This is an example.
+Examples are given in Section 4.
+Additional examples appear at the end.
+What is a good "Example"?

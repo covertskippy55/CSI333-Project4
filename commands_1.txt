@@ -1,0 +1,7 @@
+stat  file_1.txt
+last   5   file_1.txt
+last   25   file_1.txt
+first  2   file_1.txt
+trunc  3   file_1.txt
+last   3   file_1.tyt
+diff   file_1.txt   file_11.txt

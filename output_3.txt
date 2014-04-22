@@ -1,0 +1,36 @@
+No. of lines        = 3
+Maximum line length = 1000001
+Minimum line length = 10001
+Average line length = 353334.33
+
+a
+b
+c
+
+Command = trunc: Required Line Length = 1 is too small.
+
+This is an example.
+Additional examples appear at the end.
+
+Examples are given in Section 4.
+What is a good "Example"?
+
+Command = prpat: Can't open file file_51.txt for reading.
+
+This is an example.
+Examples are given in Section 4.
+Additional examples appear at the end.
+What is a good "Example"?
+
+The specified pattern does not appear in the file. 
+
+The files are different. The first difference is in line 3.
+
+This is an example.
+Examples are given in Section 4.
+Additional examples appear later. 
+What is a good "Example"?
+
+Additional examples appear later. 
+What is a good "Example"?
+
